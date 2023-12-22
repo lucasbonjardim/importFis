@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/11/23 18:15:01.000.326,=C:\Users\SYG-Desenvolvimento\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/23 18:15:46.000.966,C:\Users\SYG-Desenvolvimento\Desktop\newtec-jobs\UMain.dfm=C:\Users\SYG-Desenvolvimento\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/11/23 18:15:46.000.966,C:\Users\SYG-Desenvolvimento\Desktop\newtec-jobs\UMain.pas=C:\Users\SYG-Desenvolvimento\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/23 18:16:09.000.488,C:\Users\SYG-Desenvolvimento\Desktop\newtec-jobs\importFis.dproj=C:\Users\SYG-Desenvolvimento\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/12/02 17:43:29.000.810,=C:\Users\SYG-Desenvolvimento\Desktop\newtec-jobs\Unit2.pas</Transaction>
+    <Transaction>2023/12/22 12:04:04.670,=C:\Users\SYG-Desenvolvimento\Desktop\newtec-jobs\uImportExcel.pas</Transaction>
+  </Transactions>
+</BorlandProject>
